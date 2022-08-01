@@ -2,6 +2,7 @@
 '''A module containing a rebellious int.
 '''
 
+
 class MyInt(int):
     '''Represents a rebellious integer object.
     '''
