@@ -3,6 +3,7 @@
 This module implements a custom list object
 """
 
+
 class MyList(list):
     """Custom List
     """
